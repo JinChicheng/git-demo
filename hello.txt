@@ -15,5 +15,5 @@ hello git ! hello JINCHICHENG
 hello git ! hello JINCHICHENG	
 hello git ! hello JINCHICHENG	
 hello git ! hello JINCHICHENG	
-hello git ! hello JINCHICHENG	
+hello git ! hello JINCHICHENG	master test	
 hello git ! hello JINCHICHENG	
